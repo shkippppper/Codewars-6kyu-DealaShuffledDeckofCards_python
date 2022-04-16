@@ -9,3 +9,5 @@ Complete the function that returns a shuffled deck of 52 playing cards without r
 Each card should have format "{suit} {value}", e.g. the Queen of Hearts is "H 12" and the Ace of Spades is "S 1". The order of the cards must be different each time the function is called.
 
 https://www.codewars.com/kata/5810ad962b321bac8f000178/solutions/python
+
+
